@@ -1,0 +1,2 @@
+Print all subarrays with 0 sum
+Given an integer array, print all subarrays with zero-sum.
